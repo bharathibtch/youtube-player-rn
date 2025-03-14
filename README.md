@@ -18,4 +18,4 @@ npx expo start
 
 5. Done! App will run on your phone 
 
-![YouTube Player App Screenshot](https://raw.githubusercontent.com/bharathibtch/youtube-player-rn/refs/heads/main/assets/youtube_player_rn.jepg) 
+![YouTube Player App Screenshot](https://raw.githubusercontent.com/bharathibtch/youtube-player-rn/refs/heads/main/assets/youtube_player_rn.jpeg) 
