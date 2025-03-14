@@ -17,3 +17,5 @@ npx expo start
 4. Scan QR code with your mobile Expo Go app
 
 5. Done! App will run on your phone 
+
+![YouTube Player App Screenshot](https://raw.githubusercontent.com/bharathibtch/youtube-player-rn/refs/heads/main/assets/youtube_player_rn.jepg) 
